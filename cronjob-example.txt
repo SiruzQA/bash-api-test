@@ -1,0 +1,1 @@
+0 * * * * /bin/bash /full/path/to/terminal-api-tester/scripts/run_all.sh >> /full/path/to/terminal-api-tester/logs/test_log_$(date +\%F).txt 2>&1
